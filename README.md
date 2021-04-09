@@ -14,7 +14,7 @@ Moving on to the weekly performance by city type, our visualization confirms our
 
 As we can see in the chart,  Urban cities earn the most, then Suburban, and, finally, Rural cities on a weekly basis.  Urban cities earned up to six times the amount Rural cities did in certain weeks!
 
-##Summary
+## Summary
 There are a couple ideas that come to mind when deciding how to attack the disparities between city type.
 
 - I would suggest taking some of the Urban drivers and sending them out to the Suburbs.  This will obviously decrease driver supply in Urban cities, possibly lowering Urban city revenue, but at ~$16 a driver in Urban areas and ~$40 a driver in Suburban ones, we can expect to more than offset those losses overall.
