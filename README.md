@@ -11,3 +11,12 @@ Total rides, drivers, and fares all increase as we go from rural areas to more u
 Moving on to the weekly performance by city type, our visualization confirms our expectations of Urban cities outperforming their counterparts.
 
 (Total Fare by City Type)![image](https://user-images.githubusercontent.com/79211628/114205708-33ae5b80-9920-11eb-9fef-d72d4372ce29.png)
+
+As we can see in the chart,  Urban cities earn the most, then Suburban, and, finally, Rural cities on a weekly basis.  Urban cities earned up to six times the amount Rural cities did in certain weeks!
+
+##Summary
+There are a couple ideas that come to mind when deciding how to attack the disparities between city type.
+
+- I would suggest taking some of the Urban drivers and sending them out to the Suburbs.  This will obviously decrease driver supply in Urban cities, possibly lowering Urban city revenue, but at ~$16 a driver in Urban areas and ~$40 a driver in Suburban ones, we can expect to more than offset those losses overall.
+- Based on our chart, it looks like revenues in Urban cities are lower in the first couple weeks of the year.  This seems like a perfect opportunity to send drivers out to the Suburban and Rural areas due to the lower opportunity cost of driving out there compared to in the Urban cities.
+- Finally, we can see from our summary table that the only city type that has more drivers than rides is the Urban type.  This leads me to believe the Suburban and Rural drivers are underutilized resources due to the lack of demand for rides. I believe targetted ads in the Sururban and Rural areas could increase awareness, and therefore demand, of PyBer in those areas, turning the wages we pay our underworked Suburban and Rural drivers into a more efficient use of capital.
