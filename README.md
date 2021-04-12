@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview
-V. Isualize wanted to look into the performance of each city type.  By computing some basic summary statistics, we were able to easily compare the total rides, drivers, and fares, as well as the average fare per ride and average fare per driver for all three types.  She then asked to look into the weekly fare of each type for the first four months of 2019 and, ultimately, plot the findings in a multiple line graph.  This all was performed in the hoped that it would lead to more informed business decisions to address the disparities between the city types.
+V. Isualize wanted to look into the performance of each city type.  By computing some basic summary statistics, we were able to easily compare the total rides, drivers, and fares, as well as the average fare per ride and average fare per driver for all three types.  She then asked to look into the weekly fare of each type for the first four months of 2019 and, ultimately, plot the findings in a multiple line graph.  This all was performed in the hopes that it would lead to more informed business decisions to address the disparities between the city types.
 
 ## Results
 When we look at the summary of the PyBer data, we can see the city type has a significant influence on every metric we measured.
